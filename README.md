@@ -1,4 +1,4 @@
-# QR_Code_Card
+# QR_code_component
 Created by Mariam!
 
 Hi! 
